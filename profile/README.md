@@ -1,8 +1,13 @@
-__Ta organizacja zawiera pluginy, tekstruy i inne assety servera Huje22 (Java i Bedrock)__
+<div align="center">
 
+__Ta organizacja zawiera pluginy, tekstruy i inne assety servera Huje22 (Java i Bedrock)__
+</div>
+
+**Developerzy**: </br>
+[IndianBartonka](https://github.com/IndianBartonka) (608063215854682133) </br>
 
 **Staff**: </br>
-IndianBartonka (608063215854682133) </br>
+[IndianBartonka](https://github.com/IndianBartonka) (608063215854682133) </br>
 
 **Admin**: </br>
 Brak </br>
