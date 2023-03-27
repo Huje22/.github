@@ -3,6 +3,8 @@
 __Ta organizacja zawiera pluginy, tekstruy i inne assety servera Huje22 (Java i Bedrock)__
 </div>
 
+__Powstanie serii serverow Huje22__: [Powstanie](https://github.com/Huje22/.github/blob/main/profile/POWSTANIE.MD)</br>
+
 **Developerzy**: </br>
 [IndianBartonka](https://github.com/IndianBartonka) (608063215854682133) </br>
 
