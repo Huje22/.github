@@ -4,7 +4,7 @@ __Ta organizacja zawiera pluginy, tekstruy i inne assety servera Huje22 (Java i 
 </div>
 
 __Powstanie serii serverow
-Huje22__: [Powstanie](https://github.com/Huje22/.github/blob/main/profile/powstanie/README.md)</br>
+Huje22__: [Powstanie](https://github.com/Huje22/.github/blob/main/profile/powstanie)</br>
 
 **Developerzy**: </br>
 [IndianBartonka](https://github.com/IndianBartonka) (608063215854682133) </br>
