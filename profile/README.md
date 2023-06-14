@@ -1,6 +1,6 @@
 <div align="center">
 
-__Ta organizacja zawiera pluginy, tekstruy i inne assety servera Huje22 (Java i Bedrock)__
+__Ta organizacja zawiera pluginy, tekstury i inne assety servera Huje22 (Java i Bedrock)__
 </div>
 
 __Powstanie serii serverow
