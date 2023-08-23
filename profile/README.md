@@ -6,6 +6,8 @@ __Ta organizacja zawiera pluginy, tekstury i inne assety servera Huje22 (Java i 
 __Powstanie serii serverow
 Huje22__: [Powstanie](https://github.com/Huje22/.github/blob/main/profile/powstanie)</br>
 
+__Aktualna lista graczy prywatnych sezonów BDS__ [Allowlist](https://github.com/Huje22/AllowList)<br>
+
 __Nie użyte autorskie rzeczy__: [Unused things](https://github.com/Huje22/Unused-things)
 
 **Developerzy**: </br>
