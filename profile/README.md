@@ -8,7 +8,10 @@ Huje22__: [Powstanie](https://github.com/Huje22/.github/blob/main/profile/powsta
 
 __Aktualna lista graczy prywatnych sezonów BDS__ [Allowlist](https://github.com/Huje22/AllowList)<br>
 
+<!--
 __Nie użyte autorskie rzeczy__: [Unused things](https://github.com/Huje22/Unused-things)
+-->
+__Najlepszy projekt__: [BDS-Auto-Enable](https://github.com/Huje22/Bds-Auto-Enable)
 
 **Developerzy**: </br>
 [IndianBartonka](https://github.com/IndianBartonka) (608063215854682133) </br>
