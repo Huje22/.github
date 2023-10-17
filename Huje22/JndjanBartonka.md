@@ -1,7 +1,9 @@
 ### JndjanBartonka 
-<div align="right">
-    <img src="https://mineskin.eu/armor/bust/JndjanBartonka/100.png" alt="Skin">
-</div>
+    
+![Head](https://mineskin.eu/headhelm/JndjanBartonka/100.png)
+![Head](https://mineskin.eu/head/JndjanBartonka/100.png)
+![Skin](https://mineskin.eu/armor/bust/JndjanBartonka/100.png)
+![Skin](https://mineskin.eu/bust/JndjanBartonka/100.png)
 
 **Aktualny Nick**: JndjanBartonka <br>
 **Ranga w Hujach**: Właściciel <br>
