@@ -1,7 +1,7 @@
 # Powstanie
 
 Jak powstał server huje22?
-Server pierwszy raz ukazał się 12.01.2020 na realms Minecraft Bedrock Edition
+Server pierwszy raz ukazał się `12.01.2020` na realms Minecraft Bedrock Edition
 
 ---
 # Nazwa
@@ -14,7 +14,7 @@ Jeśli się zastanawiacie to tak, nazwa to huje dwa dwa ,nie huje dwadzieścia d
 # Gracze
 
 Ekipa pierwszych 3 sezonów to nie zapomniana mi ekipa (aktywna ekipa) </br>
-Ekipa wyglądała następująco: </br>
+Ekipa wyglądała następująco(15os): </br>
 
 
 | Sezon 1           | Sezon 2         | Sezon 3       |
@@ -33,9 +33,14 @@ Ekipa wyglądała następująco: </br>
 | MisPoDropsach (Dominik) | -------         | ------        |
 | Artich (Artur)         | -------          | ------        |
 
-
+Zasługują oni na miano "Hujów22" (ranga na discord, w mc itp) <br>
 
 Osoby które nie zostały wpisane nie grały dużo na serwerze </br>
 Nicki osób nie wszystkie są aktualne </br>
+
+
+
+Osoby które równie mają nie mały staż w Huje22:
+    TODO: Uzupełnić to
 
 ---
