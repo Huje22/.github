@@ -16,22 +16,23 @@ Jeśli się zastanawiacie to tak, nazwa to huje dwa dwa ,nie huje dwadzieścia d
 Ekipa pierwszych 3 sezonów to nie zapomniana mi ekipa (aktywna ekipa) </br>
 Ekipa wyglądała następująco: </br>
 
-**IndianBartonka (Bartek)</br>**
-**Skwarka (Aleksandra)</br>**
-**Damin000 (Damian)</br>**
-**Roxus (Marcin)</br>**
-**Zuzxs (Zuzia)</br>**
-**SzymonG110 (Szymon)</br>**
-**Kentrex (Damian)</br>**
-**xSweetLuniax (Oliwia)</br>**
-**Wera23 (Weronika)</br>**
-**Halina (Michał)</br>**
-**Bqrtqk (Bartek)</br>**
-**Bumbumjg (Jagoda)</br>**
-**Filp (Filip.N)</br>**
-**T9m3k (Tomek)</br>**
-**MisPoDropsach (Dominik)</br>**
-**Artich (Artur)</br>**
+
+| Sezon 1           | Sezon 2         | Sezon 3       |
+|-------------------|-----------------|---------------|
+| JndjanBartonka (Bartek) | Bumbumjg (Jagoda) | Halina (Michał) |
+| Skwarka2 (Aleksandra)   | -------          | ------        |
+| Kentrex (Damian)       | -------          | ------        |
+| Roxus (Marcin)         | -------          | ------        |
+| Damin000 (Damian)      | -------          | ------        |
+| xSweetLuniax (Oliwia)  | -------          | ------        |
+| Wera23 (Weronika)      | -------          | ------        |
+| SzymonG110 (Szymon)    | -------          | ------        |
+| Bqrtqk (Bartek)        | -------          | ------        |
+| Filp (Filip.N)         | -------          | ------        |
+| T9m3k (Tomek)          | -------          | ------        |
+| MisPoDropsach (Dominik) | -------         | ------        |
+| Artich (Artur)         | -------          | ------        |
+
 
 
 Osoby które nie zostały wpisane nie grały dużo na serwerze </br>
