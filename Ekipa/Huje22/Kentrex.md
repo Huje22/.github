@@ -1,0 +1,23 @@
+### Kentrex
+
+**Aktualny Znany Nick BE**: [KENTREXXX1099](https://account.xbox.com/pl-pl/profile?gamertag=KENTREXXX1099) <br>
+**Aktualny Znany Nick JE**: KENTREXXX1099 (non-premium) <br>
+**Ranga w Hujach**: Huje22 <br>
+**Sezony gry**: 1,2,3,5,6,7,8,9 (i przed sezony) <br>
+
+### Uwagi Indiana
+
+***Brak***
+
+### Linki do mediów gracza
+
+(Do uzupełnienia własnego)
+
+### Skin Użytkownika
+
+(Skin z strony mineskin.eu brany po znanym nam nicku z java) <br>
+
+![Head](https://mineskin.eu/headhelm/KENTREXXX1099/90.png)
+![Head](https://mineskin.eu/head/KENTREXXX1099/90.png)
+![Skin](https://mineskin.eu/armor/bust/KENTREXXX1099/90.png)
+![Skin](https://mineskin.eu/bust/KENTREXXX1099/90.png)
