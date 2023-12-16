@@ -2,7 +2,7 @@
 
 **Aktualny Znany Nick BE**:  ***Brak Danych*** <br>
 **Aktualny Znany Nick JE**:  ***Brak Danych*** <br>
-**Ranga w Hujach**: Gracz <br>
+**Ranga w Hujach**: Znajomy <br>
 **Sezony gry**: 3 <br>
 
 ### Uwagi Indiana
