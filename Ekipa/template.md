@@ -1,4 +1,4 @@
-### NICK
+### StaryNick
 
 **Aktualny Znany Nick BE**: [NICK](https://account.xbox.com/pl-pl/profile?gamertag=NICK) <br>
 **Aktualny Znany Nick JE**: NICK (non-premium) <br>
