@@ -1,17 +1,17 @@
 <div align="center">
 
-__Ta organizacja zawiera pluginy, tekstury i inne assety servera Huje22 (Java i Bedrock)__
+***Ta organizacja zawiera pluginy, tekstury i inne assety servera Huje22 (Java i Bedrock)***
 </div>
 
-__Powstanie serii serverow
-Huje22__: [Powstanie](https://github.com/Huje22/.github/blob/main/profile/powstanie)</br>
+***Powstanie serii serverow
+Huje22***: [Powstanie](https://github.com/Huje22/.github/blob/main/profile/powstanie)</br>
 
-__Aktualna lista graczy prywatnych sezonów BDS__ [Allowlist](https://github.com/Huje22/AllowList)<br>
+***Aktualna lista graczy prywatnych sezonów BDS*** [Allowlist](https://github.com/Huje22/AllowList)<br>
 
 <!--
-__Nie użyte autorskie rzeczy__: [Unused things](https://github.com/Huje22/Unused-things)
+***Nie użyte autorskie rzeczy***: [Unused things](https://github.com/Huje22/Unused-things)
 -->
-__Najlepszy projekt__: [BDS-Auto-Enable](https://github.com/Huje22/Bds-Auto-Enable)
+***Najlepszy projekt***: [BDS-Auto-Enable](https://github.com/Huje22/Bds-Auto-Enable)
 
 **Developerzy**: </br>
 [IndianBartonka](https://github.com/IndianBartonka) (608063215854682133) </br>
