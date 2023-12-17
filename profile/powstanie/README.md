@@ -16,22 +16,22 @@ Jeśli się zastanawiacie to tak, nazwa to huje dwa dwa ,nie huje dwadzieścia d
 Ekipa pierwszych 3 sezonów to nie zapomniana mi ekipa (aktywna ekipa) </br>
 Ekipa wyglądała następująco: </br>
 
-| Sezon 1                                                                                               | Sezon 2                                                                                   | Sezon 3                                                                               |
-|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| [JndjanBartonka (Bartek)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/JndjanBartonka.md) | [Bumbumjg (Jagoda)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Bumbumjg.md) | [Halina (Michał)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Halina.md) |
-| [Skwarka2 (Aleksandra)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Skwarka2.md)         | -------                                                                                   | ------                                                                                |
-| [Kentrex (Damian)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Kentrex.md)               | -------                                                                                   | ------                                                                                |
-| [Roxus (Marcin)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Roxus.md)                   | -------                                                                                   | ------                                                                                |
-| [Damin000 (Damian)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Damin000.md)             | -------                                                                                   | ------                                                                                |
-| [xSweetLuniax (Oliwia)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/xSweetLuniax.md)     | -------                                                                                   | ------                                                                                |
-| [Wera23 (Weronika)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Wera23.md)               | -------                                                                                   | ------                                                                                |
-| [SzymonG110 (Szymon)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/SzymoG110.md)          | -------                                                                                   | ------                                                                                |
-| [Bqrtqk (Bartek)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Bqrtqk.md)                 | -------                                                                                   | ------                                                                                |
-| [Zuzxs (Zuzia)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Zuzxs.md)                    | -------                                                                                   | ------                                                                                |
-| [Filipo999 (Filip)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Filipo999.md)            | -------                                                                                   | ------                                                                                |
-| [T9m3k (Tomek)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/T9m3k.md)                    | -------                                                                                   | ------                                                                                |
-| [MisPoDropsach (Dominik)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/MisPoDropsach.md)  | -------                                                                                   | ------                                                                                |
-| [Artich (Artur)](https://github.com/Huje22/.github/blob/main/Ekipa/Huje22/Artich.md)                  | -------                                                                                   | ------                                                                                |
+| Sezon 1                                                                 | Sezon 2                                                     | Sezon 3                                                 |
+|-------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------|
+| [JndjanBartonka (Bartek)](..%2F..%2FEkipa%2FHuje22%2FJndjanBartonka.md) | [Bumbumjg (Jagoda)](..%2F..%2FEkipa%2FHuje22%2FBumbumjg.md) | [Halina (Michał)](..%2F..%2FEkipa%2FHuje22%2FHalina.md) |
+| [Skwarka2 (Aleksandra)](..%2F..%2FEkipa%2FHuje22%2FSkwarka2.md)         | -------                                                     | ------                                                  |
+| [Kentrex (Damian)](..%2F..%2FEkipa%2FHuje22%2FKentrex.md)               | -------                                                     | ------                                                  |
+| [Roxus (Marcin)](..%2F..%2FEkipa%2FHuje22%2FRoxus.md)                   | -------                                                     | ------                                                  |
+| [Damin000 (Damian)](..%2F..%2FEkipa%2FHuje22%2FDamin000.md)             | -------                                                     | ------                                                  |
+| [xSweetLuniax (Oliwia)](..%2F..%2FEkipa%2FHuje22%2FxSweetLuniax.md)     | -------                                                     | ------                                                  |
+| [Wera23 (Weronika)](..%2F..%2FEkipa%2FHuje22%2FWera23.md)               | -------                                                     | ------                                                  |
+| [SzymonG110 (Szymon)](..%2F..%2FEkipa%2FHuje22%2FSzymoG110.md)          | -------                                                     | ------                                                  |
+| [Bqrtqk (Bartek)](..%2F..%2FEkipa%2FHuje22%2FBqrtqk.md)                 | -------                                                     | ------                                                  |
+| [Zuzxs (Zuzia)](..%2F..%2FEkipa%2FHuje22%2FZuzxs.md)                    | -------                                                     | ------                                                  |
+| [Filipo999 (Filip)](..%2F..%2FEkipa%2FHuje22%2FFilipo999.md)            | -------                                                     | ------                                                  |
+| [T9m3k (Tomek)](..%2F..%2FEkipa%2FHuje22%2FT9m3k.md)                    | -------                                                     | ------                                                  |
+| [MisPoDropsach (Dominik)](..%2F..%2FEkipa%2FHuje22%2FMisPoDropsach.md)  | -------                                                     | ------                                                  |
+| [Artich (Artur)](..%2F..%2FEkipa%2FHuje22%2FArtich.md)                  | -------                                                     | ------                                                  |
 
 Zasługują oni na miano "Hujów22" (ranga na discord, w mc itp) <br>
 
@@ -41,14 +41,14 @@ Nicki osób są ustawione na te z sezonu 1-3, kliknij w nick aby dowiedzieć si�
 
 ### Osoby które też coś znaczą dla Huje22
 
-| Kto                                                                                               | Z jakiego powodu?                                            | 
-|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| [Morenox7](https://github.com/Huje22/.github/blob/main/Ekipa/Sta%C5%BC/Morenox7.md)               | Pomocnik na sezonach Java & Bedrock                          | 
-| [ThrowingPanda71](https://github.com/Huje22/.github/blob/main/Ekipa/Sta%C5%BC/ThrowingPanda71.md) | Aktywny gracz sezonów Java & Bedrock                         |  
-| [Kasiexx69](https://github.com/Huje22/.github/blob/main/Ekipa/Sta%C5%BC/Kasiexx69.md)             | Aktywny gracz paru sezonów z którym nadal mamy dobry kontakt | 
-| ------                                                                                            | -------                                                      |
-| ------                                                                                            | -------                                                      | 
-| ------                                                                                            | -------                                                      | 
+| Kto                                                                 | Z jakiego powodu?                                            | 
+|---------------------------------------------------------------------|--------------------------------------------------------------|
+| [Morenox7](..%2F..%2FEkipa%2FSta%C5%BC%2FMorenox7.md)               | Pomocnik na sezonach Java & Bedrock                          | 
+| [ThrowingPanda71](..%2F..%2FEkipa%2FSta%C5%BC%2FThrowingPanda71.md) | Aktywny gracz sezonów Java & Bedrock                         |  
+| [Kasiexx69](..%2F..%2FEkipa%2FSta%C5%BC%2FKasiexx69.md)             | Aktywny gracz paru sezonów z którym nadal mamy dobry kontakt | 
+| ------                                                              | -------                                                      |
+| ------                                                              | -------                                                      | 
+| ------                                                              | -------                                                      | 
 
 ---
 
