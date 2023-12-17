@@ -3,7 +3,7 @@
 **Aktualny Znany Nick BE**: [Bumbumjg](https://account.xbox.com/pl-pl/profile?gamertag=Bumbumjg) <br>
 **Aktualny Znany Nick JE**: ***Brak Danych*** (non-premium) <br>
 **Ranga w Hujach**: Huje22 <br>
-**Sezony gry**: 1,2,3,4 <br>
+**Sezony gry**: 2,3,4 <br>
 
 ### Uwagi Indiana
 
