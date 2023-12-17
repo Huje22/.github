@@ -3,8 +3,10 @@
 ***Ta organizacja zawiera pluginy, tekstury i inne assety servera Huje22 (Java i Bedrock)***
 </div>
 
-***Powstanie serii serverow
-Huje22***: [Powstanie](https://github.com/Huje22/.github/blob/main/profile/powstanie)</br>
+***Powstanie serii serverów
+Huje22***: [Powstanie](powstanie%2FREADME.md)</br>
+
+***Jeśli ciekawiesz się jak zostać sponsorem kliknij*** [tutaj](..%2Fsponsoring%2FREADME.MD) <br>
 
 ***Aktualna lista graczy prywatnych sezonów BDS*** [Allowlist](https://github.com/Huje22/AllowList)<br>
 
