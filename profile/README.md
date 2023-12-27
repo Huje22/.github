@@ -4,7 +4,7 @@
 </div>
 
 ***Powstanie serii serverów
-Huje22***: [Powstanie](powstanie%2FREADME.md)</br>
+Huje22***: [Powstanie](https://github.com/Huje22/.github/blob/main/profile/powstanie/README.md)</br>
 
 ***Jeśli ciekawiesz się jak zostać sponsorem kliknij*** [tutaj](..%2Fsponsoring%2FREADME.MD) <br>
 
