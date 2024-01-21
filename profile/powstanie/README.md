@@ -62,6 +62,7 @@ Nicki osób są ustawione na te z sezonu 1-3, kliknij w nick aby dowiedzieć si�
 
 ![JndjanBartonka](https://mineskin.eu/armor/bust/JndjanBartonka/60.png)
 ![Roxus](https://mineskin.eu/armor/bust/RoXuSTheWolf/60.png)
+![Kentrex](https://mineskin.eu/armor/bust/kentrex/60.png)
 ![Wera23](https://mineskin.eu/armor/bust/WeraNotFound/60.png)
 ![SzymonG110](https://mineskin.eu/armor/bust/Modaek10/60.png)
 ![Bqrtqk](https://mineskin.eu/armor/bust/Bqrtqk/60.png)
@@ -69,7 +70,6 @@ Nicki osób są ustawione na te z sezonu 1-3, kliknij w nick aby dowiedzieć si�
 ![Bumbumjg](https://mineskin.eu/armor/bust/Bumbumjg/60.png)
 ![Damin000](https://mineskin.eu/armor/bust/Damin000/60.png)
 ![Halina](https://mineskin.eu/armor/bust/Komunizhehe/60.png)
-![Kentrex](https://mineskin.eu/armor/bust/KENTREXXX1099/60.png)
 ![MisPoDropsach](https://mineskin.eu/armor/bust/MisPoDropsach/60.png)
 ![Skwarka2](https://mineskin.eu/armor/bust/Skwarka2/60.png)
 ![T9m3k](https://mineskin.eu/armor/bust/T9m3k/60.png)
