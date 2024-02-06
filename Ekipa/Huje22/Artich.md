@@ -7,7 +7,7 @@
 
 ### Uwagi Indiana
 
-Dużo nie grał lecz zasługuje na mieisce tutaj
+Dużo nie grał lecz zasługuje na miejsce tutaj
 
 ### Linki do mediów gracza
 
