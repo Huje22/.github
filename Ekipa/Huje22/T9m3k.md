@@ -3,7 +3,7 @@
 **Aktualny Znany Nick BE**: [T9m3k](https://account.xbox.com/pl-pl/profile?gamertag=T9m3k) <br>
 **Aktualny Znany Nick JE**: T9m3k (non-premium) <br>
 **Ranga w Hujach**: Huje22 <br>
-**Sezony gry**: 1,2,3,5,7,8,9 (i przed sezony) <br>
+**Sezony gry**: 1,2,3,5,7,8,9,10 (i przed sezony) <br>
 
 ### Uwagi Indiana
 

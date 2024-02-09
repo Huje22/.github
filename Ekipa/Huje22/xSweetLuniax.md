@@ -3,7 +3,7 @@
 **Aktualny Znany Nick BE**: [LadyZazuka](https://account.xbox.com/pl-pl/profile?gamertag=LadyZazuka) <br>
 **Aktualny Znany Nick JE**: LadyZazuka (non-premium) <br>
 **Ranga w Hujach**: Huje22 <br>
-**Sezony gry**: 1,2,3,4,8,9 (i przed sezony) <br>
+**Sezony gry**: 1,2,3,4,8,9,10 (i przed sezony) <br>
 
 ### Uwagi Indiana
 

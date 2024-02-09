@@ -3,7 +3,7 @@
 **Aktualny Znany Nick BE**: [WeraNotFound](https://account.xbox.com/pl-pl/profile?gamertag=WeraNotFound) <br>
 **Aktualny Znany Nick JE**: WeraNotFound <br>
 **Ranga w Hujach**: Huje22 <br>
-**Sezony gry**: 1,2,3,4,5,7,9 (i przed sezony) <br>
+**Sezony gry**: 1,2,3,4,5,7,9,10(bez odebrania) (i przed sezony) <br>
 
 ### Uwagi Indiana
 

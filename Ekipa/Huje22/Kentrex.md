@@ -3,7 +3,7 @@
 **Aktualny Znany Nick BE**: [KENTREXXX1099](https://account.xbox.com/pl-pl/profile?gamertag=KENTREXXX1099) <br>
 **Aktualny Znany Nick JE**: kentrex <br>
 **Ranga w Hujach**: Huje22 <br>
-**Sezony gry**: 1,2,3,5,6,7,8,9 (i przed sezony) <br>
+**Sezony gry**: 1,2,3,5,6,7,8,9,10 (i przed sezony) <br>
 
 ### Uwagi Indiana
 

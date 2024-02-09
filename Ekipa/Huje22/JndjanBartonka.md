@@ -3,7 +3,7 @@
 **Aktualny Znany Nick BE**: [JndjanBartonka](https://account.xbox.com/pl-pl/profile?gamertag=JndjanBartonka) <br>
 **Aktualny Znany Nick JE**: JndjanBartonka <br>
 **Ranga w Hujach**: Właściciel <br>
-**Sezony gry**: 1,2,3,4,5,6,7,8,9 (i przed sezony) <br>
+**Sezony gry**: 1,2,3,4,5,6,7,8,9,10 (i przed sezony) <br>
 
 ### Uwagi Administracji
 

@@ -3,7 +3,7 @@
 **Aktualny Znany Nick BE**: [ThrowingPanda71](https://account.xbox.com/pl-pl/profile?gamertag=ThrowingPanda71) <br>
 **Aktualny Znany Nick JE**: ThrowingPanda71  <br>
 **Ranga w Hujach**: Znajomy <br>
-**Sezony gry**: 5,6,7 <br>
+**Sezony gry**: 5,6,7,10 <br>
 
 ### Uwagi Indiana
 
