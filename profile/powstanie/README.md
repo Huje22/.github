@@ -35,7 +35,7 @@ Ekipa wyglądała następująco: </br>
 
 Zasługują oni na miano "Hujów22" (ranga na discord, w mc itp) <br>
 
-Osoby które nie zostały wpisane w powyższej tabeli nie grały dużo na serwerze </br>
+Osoby z sezonów 1-3 które nie zostały wpisane w powyższej tabeli nie grały dużo na serwerze, ale nadal mają szansę zdobyć miano "Huje22"</br>
 
 Nicki osób są ustawione na te z sezonu 1-3, kliknij w nick aby dowiedzieć się więcej o tej osobie </br>
 
