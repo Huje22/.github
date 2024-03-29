@@ -4,7 +4,7 @@
 
 [//]: # (**Aktualny Znany Nick JE**: KENTREXXX1099 &#40;non-premium&#41; <br>)
 **Ranga w Hujach**: Huje22 <br>
-**Sezony gry**: 1,2,3 <br>
+**Sezony gry**: 1,2,3,5(krótko) <br>
 
 ### Uwagi Indiana
 
