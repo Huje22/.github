@@ -29,7 +29,8 @@ Brak  </br>
 
 **Pomocnicy**:  </br>
 RoxusTheWolf [Bedrock i Java] (506043770454671372)  </br>
-Morenox [Java] (740951894486286348) </br>
+~~Morenox [Java] (740951894486286348)~~ </br>
+Adovski [Bedrock] () <br>
 
 W jaki sposób są wypisani tu ludzie: </br>
 `Nick name [Jakie edycję servera] (Id z discord)` </br>
